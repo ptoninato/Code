@@ -1,0 +1,31 @@
+h1 {
+	color: purple; 
+	border: 10px solid black;
+	margin: 10px 30px 1px 1px;
+	padding: 10px;
+
+}
+
+.second-header {
+	color: red;
+}
+
+#blue-text{
+	color: blue;
+}
+
+h2 {
+	color: rgb(250, 0, 0);
+	font-size: 20px;
+	font-family: 'Open Sans';
+	text-align: center;
+}
+
+li {
+	list-style-type: none;
+	float: left;
+}
+
+div + p {
+    background-color: red;
+}
